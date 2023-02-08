@@ -6,5 +6,8 @@
   {
     "package": "jtools",
     "oncran": true
+  },
+  {
+    "package": "panelr"
   }
 ]

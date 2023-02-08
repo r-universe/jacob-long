@@ -13,3 +13,8 @@
 	url = https://github.com/jacob-long/jtools
 	shallow = true
 	registered = true
+[submodule "panelr"]
+	path = panelr
+	url = https://github.com/jacob-long/panelr
+	shallow = true
+	registered = true
