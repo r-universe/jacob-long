@@ -1,10 +1,10 @@
 [
   {
-    "package": "interactions",
+    "package": "jtools",
     "oncran": true
   },
   {
-    "package": "jtools",
+    "package": "interactions",
     "oncran": true
   },
   {

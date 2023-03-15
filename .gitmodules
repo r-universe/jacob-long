@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "interactions"]
-	path = interactions
-	url = https://github.com/jacob-long/interactions
-	shallow = true
-	registered = true
 [submodule "jtools"]
 	path = jtools
 	url = https://github.com/jacob-long/jtools
+	shallow = true
+	registered = true
+[submodule "interactions"]
+	path = interactions
+	url = https://github.com/jacob-long/interactions
 	shallow = true
 	registered = true
 [submodule "panelr"]
