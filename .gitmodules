@@ -8,3 +8,6 @@
 [submodule "jtools"]
 	path = jtools
 	url = https://github.com/jacob-long/jtools
+[submodule "panelr"]
+	path = panelr
+	url = https://github.com/jacob-long/panelr
